@@ -2,6 +2,7 @@
 
 <b> STEPS FOLLOWED TO CREATE THIS PROJECT: </b>
 
+<u>
 1. Downloaded and installed Docker Desktop application from internet
 2. Launched Visual Studio Code and connected to project folder
 3. Inside project folder created an empty Docker file and source path
@@ -17,7 +18,7 @@
 13. Using 'docker run -d -p port:port <docker_image_id>' command executed the docker image in a new container
 14. Checked currently running docker using 'docker ps'
 15. Stopped the Docker Container using command 'docker stop'
-
+</u>
 
 
 <b> APPLICATION DESCRIPTION: </b>
