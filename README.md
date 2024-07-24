@@ -1,6 +1,6 @@
 # g23ai2068_dockerproject
 
-STEPS FOLLOWED TO CREATE THIS PROJECT:
+<b> STEPS FOLLOWED TO CREATE THIS PROJECT: </b>
 
 1. Downloaded and installed Docker Desktop application from internet
 2. Launched Visual Studio Code and connected to project folder
