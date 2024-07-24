@@ -20,13 +20,13 @@
 
 
 
-APPLICATION DESCRIPTION:
+<b> APPLICATION DESCRIPTION: </b>
 
 'calculator.html' is a simple JavaScript application that performs arithmatic calculations.
 
 
 
-AUTHOR DETAILS:
+<b> AUTHOR DETAILS: </b>
 
 NAME: SHREYASH RAMOJWAR
 ROLL NO.: G23AI2068
